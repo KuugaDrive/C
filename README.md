@@ -1,1 +1,1 @@
-# C
+jadi ini tuh gamenya tebak angka dari 1-100, kalo misalnya nebaknya lebih besar, nanti bakal ada output "Terlalu kecil! Coba lagi", kalo angkanya lebih kecil, bakal ada output "Terlalu besar! Coba lagi", dan kalo berhasil menebak akan ada output "Selamat! Anda menebak dengan benar dalam x percobaan"
